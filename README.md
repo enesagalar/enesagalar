@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **ReactNative, Laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/enesagalar](https://github.com/enesagalar)
-
 - 💬 Ask me about **html,css,c#,web**
 
 - 📫 How to reach me **enesagalar@gmail.com**
